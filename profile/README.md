@@ -20,4 +20,7 @@ Themes for agencies, studios, newsletters, real estate, trades and more. Every t
 
 ## Learn
 
-Practical guides to building and moving sites with Astro and EmDash. [astronomic.dev/learn](https://astronomic.dev/learn/wordpress)
+Practical guides to building and moving sites with Astro and EmDash:
+
+- [Build a website with AI coding agents](https://astronomic.dev/learn/ai)
+- [Migrate from WordPress to Astro or EmDash](https://astronomic.dev/learn/wordpress)
